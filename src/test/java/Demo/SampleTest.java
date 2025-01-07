@@ -4,8 +4,7 @@ public class SampleTest {
 
 	public static void main(String[] args) {
 		
-		//hi
-		//hello gud mrng
+		//pull
 	}
 
 }
